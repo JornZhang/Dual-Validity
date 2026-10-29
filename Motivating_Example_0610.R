@@ -1,5 +1,5 @@
 #########################################
-#####  EXP1 in Motivation from Lihua ####
+###  EXP1 in Motivation of the Intro ####
 #####  For the validity of HAC ##########
 #########################################
 
@@ -479,7 +479,7 @@ ggplot(cp.frame, aes(x = rho, y = cp)) +
 
 
 ###########################################
-#####  EXP2 in Motivation from Lihua ######
+####  EXP2 in Motivation of the Intro #####
 #####  For the validity model LZ in X #####
 ###########################################
 rm(list = ls())
