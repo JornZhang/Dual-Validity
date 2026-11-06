@@ -35,8 +35,8 @@ if (length(args) >= 1 && nzchar(args[1])) {
 run <- get_int_arg(2, Sys.getenv("RUN", unset = "10000"))
 Lag <- get_int_arg(3, Sys.getenv("LAG", unset = "20"))
 
-input_rdata <- Sys.getenv("INPUT_RDATA", unset = "1108_PermSimu_Setting_c.Rdata")
-output_dir  <- Sys.getenv("OUTPUT_DIR", unset = "results_0621")
+input_rdata <- Sys.getenv("INPUT_RDATA", unset = "Data_Setting.Rdata")
+output_dir  <- Sys.getenv("OUTPUT_DIR", unset = "results_eps_shock")
 base_seed   <- as.integer(Sys.getenv("BASE_SEED", unset = "1130"))
 
 ## Set this to TRUE only if you want the generated AR(1) processes to have
