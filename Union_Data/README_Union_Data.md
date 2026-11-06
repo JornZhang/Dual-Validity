@@ -8,7 +8,6 @@ This directory contains R code for the union-data empirical analysis and related
 
 The original replication package is documented on [Harvard Dataverse](https://doi.org/10.7910/DVN/QTDUQ0). Because the full replication files are too large to host there, the Dataverse description directs users to an external download:
 
-- **Harvard Dataverse record:** <https://doi.org/10.7910/DVN/QTDUQ0>
 - **Full replication package (Harvard SharePoint):** [Harvard Economics Datasets — download folder](https://hu.sharepoint.com/:f:/s/HarvardEconomicsDatasets/Er6QpM5a_wpCmVBH3vVcHCEBPtH1khu6Geyi-LR2IqyF0A?e=EEhEH2) (link listed in the Dataverse description dated 2021-03-31).
 - **Alternative archival record:** [openICPSR, study E179441V1](https://doi.org/10.3886/E179441V1), which also hosts a replication package for the published paper.
 
